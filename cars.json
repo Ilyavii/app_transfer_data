@@ -95,13 +95,13 @@
     "trainPrice": 5500,
     "kmPrice": 70,
     "year": "2021",
-    "image": "cars/v_class/1.png",
+    "image": "cars/v_class/1.jpg",
     "images": [
-      "cars/v_class/1.png",
-      "cars/v_class/2.png",
-      "cars/v_class/3.png",
-      "cars/v_class/4.png",
-      "cars/v_class/5.png"
+      "cars/v_class/1.jpg",
+      "cars/v_class/2.jpg",
+      "cars/v_class/3.jpg",
+      "cars/v_class/4.jpg",
+      "cars/v_class/5.jpg"
     ],
     "description": "Комфортный минивэн Mercedes V-class",
     "features": ["Кондиционер", "Кожаный салон", "Wi-Fi"],
